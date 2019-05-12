@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://api.com'
+  apiUrl: 'http://qa.api.com'
 };
